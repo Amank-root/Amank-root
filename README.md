@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Amank-root
+- 👀 I’m interested in anything except Studing.
+- 🌱 I’m currently learning Web Dev.
+- 💞️ I’m looking to collaborate on nothing.
