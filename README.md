@@ -21,6 +21,8 @@
 
 - 📄 Know about my experiences [....](....)
 
+![Aman Kushwaha's github activity graph](https://activity-graph.herokuapp.com/graph?username=amank-root&theme=react-dark&hide_border=true&area=true)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/amankushwaha_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amankushwaha_28" height="30" width="40" /></a>
