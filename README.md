@@ -33,7 +33,7 @@
 
 [![@Aman Kushwaha's Holopin board](https://holopin.me/amank_root)](https://holopin.io/@amank_root)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amank-root&layout=compact)](https://github.com/amank-root/amank-root)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amank-root&layout=compact&theme=jolly)](https://github.com/amank-root/amank-root)
 &nbsp;
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amank-root&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="amank-root" /></p>
 &nbsp;
