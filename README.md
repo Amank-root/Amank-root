@@ -37,4 +37,4 @@
 &nbsp;
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amank-root&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="amank-root" /></p>
 &nbsp;
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amank-root&" alt="amank-root" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amank-root&theme=jolly" alt="amank-root" /></p>
