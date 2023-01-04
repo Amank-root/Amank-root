@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Javascript, Nextjs, Strapi...**
 
-- 📫 How to reach me **amank.root@gmail.com**
+- 📫 How to reach me **github-contact@amank-root.slmail.me**
 
 - 📄 Know about my experiences [....](....)
 
