@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [....](....)
 
-![Aman Kushwaha's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amank-root&theme=react-dark&hide_border=true&area=true)
+![Aman Kushwaha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amank-root&theme=react-dark&hide_border=true&area=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
