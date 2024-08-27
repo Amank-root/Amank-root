@@ -32,6 +32,8 @@
 
 <br clear="both">
 
+
+<p>Contact On: <a href="mailto:amank.root@gmail.com">amank.root@gmail.com</a></p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
